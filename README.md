@@ -10,10 +10,11 @@ Trainees track workouts, nutrition and runs, with an AI coach that logs food and
 
 <table>
   <tr>
-    <td align="center"><img src="screenshots/mobile/today.png" width="200" alt="Today screen"><br><sub>Today</sub></td>
-    <td align="center"><img src="screenshots/mobile/diary.png" width="200" alt="Food diary"><br><sub>Food diary</sub></td>
-    <td align="center"><img src="screenshots/mobile/workout.png" width="200" alt="Workout logging"><br><sub>Workout logging</sub></td>
-    <td align="center"><img src="screenshots/mobile/coach-dashboard.png" width="200" alt="Coach dashboard on mobile"><br><sub>Coach view</sub></td>
+    <td align="center"><img src="screenshots/mobile/today-dark.png" width="160" alt="Today screen, dark theme"><br><sub>Today (dark)</sub></td>
+    <td align="center"><img src="screenshots/mobile/today.png" width="160" alt="Today screen, light theme"><br><sub>Today (light)</sub></td>
+    <td align="center"><img src="screenshots/mobile/diary.png" width="160" alt="Food diary"><br><sub>Food diary</sub></td>
+    <td align="center"><img src="screenshots/mobile/workout.png" width="160" alt="Workout logging"><br><sub>Workout logging</sub></td>
+    <td align="center"><img src="screenshots/mobile/coach-dashboard.png" width="160" alt="Coach dashboard on mobile"><br><sub>Coach view</sub></td>
   </tr>
 </table>
 
