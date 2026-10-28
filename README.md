@@ -4,7 +4,7 @@
 
 Trainees track workouts, nutrition and runs, with an AI coach that logs food and training from a chat message, a photo or a voice note. Coaches manage their clients, classes, routines and check-ins from the mobile app or a web dashboard.
 
-> **Status:** in active development (Feb 2026 – present). The source code is private; this repository shows the product. Code walkthroughs are available on request.
+> **Status:** in active development (Feb 2026 - present). The source code is private; this repository shows the product. Code walkthroughs are available on request.
 
 ## Mobile app
 
